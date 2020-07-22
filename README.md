@@ -6,7 +6,7 @@
 
 ## URL API
 
-`https://wallaclone-281617.ew.r.appspot.com`
+`https://wallaclone-281617.ew.r.appspot.com/api/`
 
 ## Web Repo
 
